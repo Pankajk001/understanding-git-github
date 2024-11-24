@@ -161,3 +161,7 @@ console.log(firstName, lastName);
 function newFeatureAdd(){
   console.log('This is a new feature');
 }
+
+function newFeatureRemove(){
+  console.log('This is a new feature');
+}
