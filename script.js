@@ -165,3 +165,11 @@ function newFeatureAdd(){
 function newFeatureRemove(){
   console.log('This is a new feature');
 }
+
+function newFeatureUpdate(){
+  console.log('This is a new feature');
+}
+
+function newFeatureUpdate1(){
+  console.log('This is a new feature');
+}
