@@ -151,3 +151,9 @@ const name1  = 'Pankaj Kumar'
 function isAbove(){
   return age >= 18
 }
+
+function isBelow(){
+  return age < 18
+}
+
+console.log(firstName, lastName);
