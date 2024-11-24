@@ -157,3 +157,7 @@ function isBelow(){
 }
 
 console.log(firstName, lastName);
+
+function newFeatureAdd(){
+  console.log('This is a new feature');
+}
