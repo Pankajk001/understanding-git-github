@@ -173,3 +173,11 @@ function newFeatureUpdate(){
 function newFeatureUpdate1(){
   console.log('This is a new feature');
 }
+
+function newFeatureUpdate2(){
+  console.log('This is a new feature');
+}
+
+function newFeatureUpdate3(){  
+  console.log('This is a new feature');
+}
